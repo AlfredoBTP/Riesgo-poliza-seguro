@@ -1,0 +1,7 @@
+Id_Rango_Etario,Edades,rango_etario
+1,7-15,menor
+2,16-21,adolescente
+3,22-35,adulto_joven
+4,36-50,adulto
+5,51 O mas,adulto_mayor
+6,sin dato,
